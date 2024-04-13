@@ -85,8 +85,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Thesopranos/Thesopranos/output/snake.svg" alt="Snake animation" />
 
 ###
